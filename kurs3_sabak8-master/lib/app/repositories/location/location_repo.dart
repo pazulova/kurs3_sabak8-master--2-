@@ -1,5 +1,5 @@
  import 'package:geolocator/geolocator.dart';
-import 'package:kurs3_sabak8/app/servises/location/location_servis.dart';
+import 'package:getx_weather_app/app/servises/location/location_servis.dart';
 
 class LocationRepo {
 

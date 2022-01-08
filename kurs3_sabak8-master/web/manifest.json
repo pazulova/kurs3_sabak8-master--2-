@@ -1,6 +1,6 @@
 {
-    "name": "kurs3_sabak8",
-    "short_name": "kurs3_sabak8",
+    "name": "getx_weather_app",
+    "short_name": "getx_weather_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

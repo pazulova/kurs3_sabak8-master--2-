@@ -2,8 +2,8 @@
 
 import 'package:geolocator/geolocator.dart';
 
-import 'package:kurs3_sabak8/app/app_constants/app_constants.dart';
-import 'package:kurs3_sabak8/app/utilities/http_utils/http_utilis.dart';
+import 'package:getx_weather_app/app/app_constants/app_constants.dart';
+import 'package:getx_weather_app/app/utilities/http_utils/http_utilis.dart';
 
 
 class WeatherService {

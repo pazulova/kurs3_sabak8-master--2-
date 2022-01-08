@@ -1,5 +1,5 @@
  import 'package:flutter/material.dart';
-import 'package:kurs3_sabak8/app/app_constants/app_constants.dart';
+import 'package:getx_weather_app/app/app_constants/app_constants.dart';
 
 class AppTextStyles {
    

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-import 'package:kurs3_sabak8/app/app_constants/app_text_style.dart';
+import 'package:getx_weather_app/app/app_constants/app_text_style.dart';
 
-import 'package:kurs3_sabak8/app/prview_model/city_view_model.dart';
-import 'package:kurs3_sabak8/app/widgets/progress_indicator.dart';
+import 'package:getx_weather_app/app/prview_model/city_view_model.dart';
+import 'package:getx_weather_app/app/widgets/progress_indicator.dart';
 import 'dart:async';
-import 'package:kurs3_sabak8/app/servises/weather/weather_service.dart';
+import 'package:getx_weather_app/app/servises/weather/weather_service.dart';
 
 
 

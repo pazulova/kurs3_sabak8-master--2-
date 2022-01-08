@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:kurs3_sabak8/app/app_constants/app_constants.dart';
+import 'package:getx_weather_app/app/app_constants/app_constants.dart';
 
-import 'package:kurs3_sabak8/app/modules/city_ui_with_model.dart';
+import 'package:getx_weather_app/app/modules/city_ui_with_model.dart';
 
 void main() {
   runApp(MyApp());

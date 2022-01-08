@@ -2,15 +2,15 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:kurs3_sabak8/app/app_constants/app_text_style.dart';
+import 'package:getx_weather_app/app/app_constants/app_text_style.dart';
 
-import 'package:kurs3_sabak8/app/servises/location/location_servis.dart';
-import 'package:kurs3_sabak8/app/views/get_weather_view.dart';
+import 'package:getx_weather_app/app/servises/location/location_servis.dart';
+import 'package:getx_weather_app/app/views/get_weather_view.dart';
 
-import 'package:kurs3_sabak8/app/widgets/progress_indicator.dart';
+import 'package:getx_weather_app/app/widgets/progress_indicator.dart';
 
-import 'package:kurs3_sabak8/app/modules/weather_model.dart';
-import 'package:kurs3_sabak8/app/servises/weather/weather_service.dart';
+import 'package:getx_weather_app/app/modules/weather_model.dart';
+import 'package:getx_weather_app/app/servises/weather/weather_service.dart';
 
 //Flutter StatefulWidget lifecycle
 class CityUi extends StatefulWidget {

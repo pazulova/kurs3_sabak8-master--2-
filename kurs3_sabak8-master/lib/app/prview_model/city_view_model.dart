@@ -1,8 +1,8 @@
 
 import 'package:geolocator/geolocator.dart';
-import 'package:kurs3_sabak8/app/modules/weather_model.dart';
-import 'package:kurs3_sabak8/app/repositories/location/location_repo.dart';
-import 'package:kurs3_sabak8/app/repositories/weather/weather_repo.dart';
+import 'package:getx_weather_app/app/modules/weather_model.dart';
+import 'package:getx_weather_app/app/repositories/location/location_repo.dart';
+import 'package:getx_weather_app/app/repositories/weather/weather_repo.dart';
 
 
 class CityViewModel {

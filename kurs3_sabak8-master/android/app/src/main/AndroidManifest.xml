@@ -1,12 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kurs3_sabak8">
+    package="com.example.getx_weather_app">
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
     
    <application
-        android:label="kurs3_sabak8"
+        android:label="getx_weather_app"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,6 +1,6 @@
   import 'package:geolocator/geolocator.dart';
-import 'package:kurs3_sabak8/app/modules/weather_model.dart';
-import 'package:kurs3_sabak8/app/servises/weather/weather_service.dart';
+import 'package:getx_weather_app/app/modules/weather_model.dart';
+import 'package:getx_weather_app/app/servises/weather/weather_service.dart';
 
 class WeatherRepo {
 
